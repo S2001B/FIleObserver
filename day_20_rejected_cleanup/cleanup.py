@@ -31,7 +31,3 @@ class CleanupTool(FileHandlerBase):
     def run(self, days_old):
         return self.clean(days_old)
 
-# from day_14_logging_system.logger import Logger
-
-# logger = Logger("day_10_secure_file_validation\\log.txt")
-

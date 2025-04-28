@@ -21,7 +21,3 @@ class ConfigLoader:
     def show(self):
         for key, value in self.path.items():
             print(f"{key}: {value}")
-
-
-loader = ConfigLoader("day_21_config_path\\config.json")
-loader.get("downloads")

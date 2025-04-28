@@ -33,5 +33,3 @@ class Validator(FileHandlerBase):
     def run(self, filename: str):
         return self.validate(filename)
     
-# validator = Validator("day_10_secure_file_validation\\config.json")
-# validator.validate("C:\\Users\\ststo\\OneDrive\\Desktop\\FileObserver\\thgtrghtrh.txt")

@@ -62,9 +62,3 @@ Last action: {last_action}"""
         print(f"[✅] Report saved to: {report_path}")
 
 
-# from day_21_config_path.config_loader import ConfigLoader
-
-# config = ConfigLoader("day_21_config_path\\config.json")
-# reporter = DailyReporter(config.get("log"), "day_10_secure_file_validation\\outputs")
-# reporter.generate_report()
-

@@ -40,13 +40,3 @@ class Archiver(FileHandlerBase):
 
     def run(self):
         return self.zip_validated_files()
-
-
-# from day_21_config_path.config_loader import ConfigLoader
-# from day_14_logging_system.logger import Logger
-
-# new_config = ConfigLoader("day_21_config_path\\config.json")
-# log = Logger(new_config.get("log"))
-
-# archiver = Archiver(new_config.get("uploads"), new_config.get("archives"), logger=log)
-# archiver.zip_validated_files()

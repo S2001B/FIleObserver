@@ -65,8 +65,6 @@ parent = os.path.abspath(os.curdir)
 downloads_folder = os.path.join(parent, "day_10_secure_file_validation\\downloads")
 # print(downloads_folder)
 
-# 👇 Change this to your real folder
-
 if not os.path.exists(downloads_folder):
     os.makedirs(downloads_folder)
 

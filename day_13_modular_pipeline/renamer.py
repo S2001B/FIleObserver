@@ -25,6 +25,3 @@ class Renamer(FileHandlerBase):
         return self.rename(filename, folder)
 
 
-
-# new = ("day_11_smart_renamer\\rename_rules.json")
-# new.rename("C:\\Users\\ststo\\OneDrive\\Desktop\\FileObserver\\statement.pdf", "C:\\Users\\ststo\\OneDrive\\Desktop\\FileObserver\\day_10_secure_file_validation\\downloads")

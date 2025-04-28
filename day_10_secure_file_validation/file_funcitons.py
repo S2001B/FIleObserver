@@ -1,11 +1,10 @@
 import shutil
 import os
 import json
-import time
 import day_10_secure_file_validation.defensive as defender
 from datetime import datetime
 from pathlib import Path
-from day_30_component_asembly.day_30_deep_scanner.deep_scanner import DeepScanner
+from day_30_extra_components.day_30_deep_scanner.deep_scanner import DeepScanner
 
 def process_file(filename):
     try:

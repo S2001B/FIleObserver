@@ -45,8 +45,3 @@ class Logger:
             read = reader.readlines()
             for line in read:
                 print(line.strip())
-
-# new_logger = Logger("C:\\Users\\ststo\\OneDrive\\Desktop\\FileObserver\\day_10_secure_file_validation\\log.txt")
-# new_logger.info("I sold my soul")
-# new_logger.warning("This is it")
-# new_logger.error("What have we done")

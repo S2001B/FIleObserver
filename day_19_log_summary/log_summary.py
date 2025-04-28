@@ -57,8 +57,5 @@ class LogSummary(FileHandlerBase):
     def run(self):
         self.log_summary()
 
-# log = LogSummary(Logger("day_10_secure_file_validation\\log.txt"))
-# log.log_summary()
-
 
         

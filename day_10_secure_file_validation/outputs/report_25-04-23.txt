@@ -1,0 +1,8 @@
+--- FILE OBSERVER SUMMARY ---
+Total entries: 14
+Renamed files: 0
+Rejected files: 0
+Uploaded files: 3
+Warnings: 0
+Errors: 0
+Last action: [INFO] 25-04-21 20:21:26 - Archived 7 files from uploads into archive_25-04-21-20-21-26.zip

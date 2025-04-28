@@ -4,10 +4,7 @@ import time
 
 sys.path.append(os.path.curdir)
 
-from day_13_modular_pipeline.renamer import Renamer
-from day_13_modular_pipeline.validator import Validator
 from day_13_modular_pipeline.file_pipeline import FilePipeline
-from day_14_logging_system.logger import Logger
 
 class BatchRunner():
     def __init__(self, pipeline:FilePipeline, source_path: str):
