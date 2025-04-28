@@ -1,0 +1,6 @@
+{
+    "invoice": "Invoice_{date}.pdf",
+    "report": "Report_{date}.pdf",
+    "statement": "Statement_{date}.pdf"
+}
+  

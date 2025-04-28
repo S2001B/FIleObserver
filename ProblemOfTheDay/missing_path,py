@@ -1,0 +1,4 @@
+import os
+
+def filter_missing_paths(paths: list[str]) -> list[str]:
+    return [path for path in paths if not os.path.exists(path)]

@@ -1,0 +1,13 @@
+{
+    "self_config": "C:\\Users\\ststo\\OneDrive\\Desktop\\FileObserver\\day_21_config_path\\config.json", 
+    "downloads": "C:\\Users\\ststo\\OneDrive\\Desktop\\FileObserver\\day_10_secure_file_validation\\downloads",
+    "output": "C:\\Users\\ststo\\OneDrive\\Desktop\\FileObserver\\day_10_secure_file_validation\\outputs",
+    "purgatory": "C:\\Users\\ststo\\OneDrive\\Desktop\\FileObserver\\day_10_secure_file_validation\\purgatory",
+    "rejected": "C:\\Users\\ststo\\OneDrive\\Desktop\\FileObserver\\day_10_secure_file_validation\\rejected",
+    "temp": "C:\\Users\\ststo\\OneDrive\\Desktop\\FileObserver\\day_10_secure_file_validation\\temp",
+    "uploads": "C:\\Users\\ststo\\OneDrive\\Desktop\\FileObserver\\day_10_secure_file_validation\\uploads",
+    "archives": "C:\\Users\\ststo\\OneDrive\\Desktop\\FileObserver\\day_10_secure_file_validation\\archived",
+    "log": "C:\\Users\\ststo\\OneDrive\\Desktop\\FileObserver\\day_10_secure_file_validation\\log.txt",
+    "day_10": "C:\\Users\\ststo\\OneDrive\\Desktop\\FileObserver\\day_10_secure_file_validation",
+    "rules": "C:\\Users\\ststo\\OneDrive\\Desktop\\FileObserver\\day_11_smart_renamer\\rename_rules.json"
+}
