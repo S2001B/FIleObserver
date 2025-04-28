@@ -56,7 +56,7 @@ def process_file(filename):
 
             return clean
 
-    except FileNotFoundError | UnicodeError:
+    except (FileNotFoundError, UnicodeError):
         return None
 
 if __name__ == "__main__":
