@@ -2,6 +2,8 @@
 *.zip
 *.exe
 *.pdf
+*.txt
+
 env/
 __pyache__/
 ProblemOfTheDay
